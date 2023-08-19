@@ -33,6 +33,3 @@ $$ LANGUAGE plpgsql;
 SELECT * FROM fnc_persons_female();
 
 SELECT * FROM fnc_persons_male();
-
-
-
